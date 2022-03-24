@@ -1,3 +1,5 @@
+package PracCode;
+
 import java.util.Scanner;
 
 public class code1 {
